@@ -1,0 +1,8 @@
+"*":
+  core:
+    telemetryConsent: "limited"
+    uriHandlerRegistration: "never"
+  "exception-reporting":
+    userId: "fd6f7a91-1087-4db0-bcac-829dc31fcb6b"
+  "tree-view":
+    hideVcsIgnoredFiles: true
